@@ -13,6 +13,12 @@ iOS 7's new parallax effect.
 Demo
 ----
 
+![Parallax on Android](https://github.com/longtaoge/motion/blob/master/motion.gif.png)
+
+
+
+
+
 Feel free to download the [demo][1] to try out motion.
 
 Setup
