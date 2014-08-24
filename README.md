@@ -13,7 +13,7 @@ iOS 7's new parallax effect.
 Demo
 ----
 
-![Parallax on Android](motion.gif.png)
+![Parallax on Android](motion.gif)
 
 
 
